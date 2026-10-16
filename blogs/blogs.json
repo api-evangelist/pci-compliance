@@ -1,0 +1,14 @@
+{
+  "repo": "pci-compliance",
+  "feeds": [
+    {
+      "source": "https://blog.pcisecuritystandards.org/rss.xml",
+      "feed_url": "https://blog.pcisecuritystandards.org/rss.xml",
+      "title": "",
+      "saved": 2,
+      "method": "feed"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-10-10T13:15:00Z"
+}
